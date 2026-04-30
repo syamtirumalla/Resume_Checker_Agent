@@ -1,7 +1,3 @@
-# Resume_Checker_Agent
-
----
-
 # 🤖 Resume Checker AI Agent
 
 An end-to-end automated pipeline that transforms a **Telegram Bot** into a professional career assistant. This agent extracts resume content from Google Docs, performs an AI-driven evaluation, and delivers detailed reports via Telegram and Gmail.
