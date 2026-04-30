@@ -186,10 +186,3 @@ The agent is programmed to follow a specific "Action Required" protocol:
 *   **Processing**: Regular Expressions (Regex)[cite: 4]
 
 ---
-
-### License
-This project is open-source and available under the [MIT License](LICENSE).
-
----
-
-How does this look for your GitHub page?
