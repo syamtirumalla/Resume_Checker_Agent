@@ -1,12 +1,5 @@
 # Resume_Checker_Agent
 
-git clone https://github.com/syamtirumalla/Resume_Checker_Agent.git
-    ```
-2.  **Import Blueprints**: Upload each `.json` file into your automation environment.
-3.  **Configure Connections**:
-    *   Update the `__IMTCONN__` and `__IMTHOOK__` fields with your specific API credentials[cite: 1, 2, 3, 4].
-4.  **Set Up the AI Agent**: Ensure your LLM agent (e.g., GPT-4 or Gemini) is connected to the `RunAnAIAgent` module in the main flow[cite: 1].
-
 ---
 
 ## 🧠 AI Instruction Logic
