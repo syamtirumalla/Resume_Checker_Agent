@@ -79,9 +79,5 @@ The agent is programmed to follow a specific "Action Required" protocol:
 ---
 
 ### License
-This project is open-source and available under the [MIT License](LICENSE).
-
-Here is a comprehensive `README.md` file tailored for your GitHub repository. It organizes the technical components of your **Resume Checker Agent** into a professional structure suitable for a portfolio project.
-
----
+This project is open-source and available for everyone
 
